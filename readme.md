@@ -3,4 +3,4 @@
 kali-sniff
 ==========
 
-Adds wireless sniffing to the base kali image.
+Adds wireless sniffing to the base Kali image.
